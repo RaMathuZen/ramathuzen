@@ -2,7 +2,7 @@
 
 - Control Engineering Student | ❤️️ Analog Electronics | ❤️️ FOSS| ❤️️ Robotics
 
-- [Twitter](twitter.com/ramathuzen) 
+- [Twitter](https://www.twitter.com/ramathuzen) 
 
 - [LinkedIn](https://www.linkedin.com/in/annamalai-n-1684b31aa/)
 
