@@ -1,4 +1,11 @@
-### Hi there 👋
+- Likes to learn and explore many.
+
+- Control Engineering Student | ❤️️ Analog Electronics | ❤️️ FOSS| ❤️️ Robotics
+
+- [Twitter](twitter.com/ramathuzen) 
+
+- [LinkedIn](https://www.linkedin.com/in/annamalai-n-1684b31aa/)
+
 
 <!--
 **RaMathuZen/ramathuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
