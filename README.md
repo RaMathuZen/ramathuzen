@@ -1,6 +1,6 @@
 - Likes to learn and explore many.
 
-- Control Engineering Student | ❤️️ Analog Electronics | ❤️️ FOSS| ❤️️ Robotics
+- Control Engineering Student | ❤ Robotics | ❤️️ FOSS
 
 - [Twitter](https://www.twitter.com/ramathuzen) 
 
