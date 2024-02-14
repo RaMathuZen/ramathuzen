@@ -1,6 +1,7 @@
 - Likes to learn and explore many.
 
-- Control Engineering Student | ❤ Robotics | ❤️️ FOSS
+- Control guy interested in many of its applications like Robotics, RL, Electronics , etc.
+- FOSSer and GNU/Linux User (btw I use space Arch)
 
 - [Twitter](https://www.twitter.com/ramathuzen) 
 
