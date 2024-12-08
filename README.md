@@ -1,13 +1,13 @@
 - Likes to learn and explore many.
 
 - Control guy interested in many of its applications like Robotics, RL, Electronics , etc.
-- FOSSer and GNU/Linux User (btw I use space Arch)
+- FOSSer and GNU/Linux User 
 
 - [Twitter](https://www.twitter.com/ramathuzen) 
 
 - [LinkedIn](https://www.linkedin.com/in/annamalai-n-1684b31aa/)
 
-- Contact: srirammount@gmail.com
+- Contact: 1729.annamal.ai@gmail.com
 <!--
 **RaMathuZen/ramathuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
